@@ -18,9 +18,9 @@
 
 ## 💡 About Me
 
-I'm a CS student heading to **Soochow University** for an **AI Master's** this September.
+I'm a CS student at **Soochow University**. I’m a curious, energetic person who loves exploring, tinkering, and innovating. I stay positive and resilient under pressure, and my biggest strength is learning by doing—adapting fast, enjoying the unknown, and quickly getting up to speed across disciplines.
 
-I work at the intersection of **music information retrieval** and **embodied 3D safety understanding**. I am interested in how geometry can become a useful inductive bias for neural sequence and vision-language models.
+I work at the intersection of **music information retrieval** and **embodied 3D safety understanding**. I am interested in how geometry can become a useful inductive bias for neural sequence and vision-language models. 
 
 ---
 
